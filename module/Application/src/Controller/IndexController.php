@@ -30,8 +30,9 @@ class IndexController extends AbstractActionController
 
         $timeThirtyOneOctober = mktime(0,0,0,10,31,2017);
 
-        //$date = new Carbon('Last Day of Last Month');
-        $date = new Carbon("Monday of Last Week");
+        $date = new Carbon('Last Day of Last Month');
+        //$date = new Carbon("Monday of Last Week");
+        $date->setDate(2012, 02, 03);
         //$date = Carbon::createFromDate(2016, 10, 31);
         //Carbon::useMonthsOverflow(false);
         //$date->subMonth(1);
@@ -45,6 +46,7 @@ class IndexController extends AbstractActionController
             $howOldAmI,
             $noonTodayLondonTime
         );
+        
         $worldWillEnd = Carbon::createFromDate(2012, 12, 21, 'GMT');
 
 // Don't really want to die so mock now
