@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/container-interop/container-interop" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/fig/http-message-util" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/filp/whoops" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/http-interop/http-middleware" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/myclabs/deep-copy" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/nikic/fast-route" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phar-io/manifest" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phar-io/version" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/psr/http-message" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/code-unit-reverse-lookup" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/object-enumerator" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/object-reflector" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/resource-operations" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/squizlabs/php_codesniffer" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/theseer/tokenizer" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/webmozart/assert" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-code" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-component-installer" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-config-aggregator" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-diactoros" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-escaper" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-eventmanager" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-expressive" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-expressive-fastroute" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-expressive-helpers" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-expressive-router" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-expressive-template" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-expressive-tooling" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-servicemanager" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-stdlib" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-stratigility" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zfcampus/zf-composer-autoloading" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zfcampus/zf-development-mode" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/composer" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/container-interop/container-interop" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/doctrine/instantiator" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/fig/http-message-util" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/filp/whoops" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/http-interop/http-middleware" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/myclabs/deep-copy" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/nikic/fast-route" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phar-io/manifest" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phar-io/version" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpdocumentor/reflection-common" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpdocumentor/reflection-docblock" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpdocumentor/type-resolver" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpspec/prophecy" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/php-code-coverage" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/php-file-iterator" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/php-text-template" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/php-timer" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/php-token-stream" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/phpunit" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/phpunit-mock-objects" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/psr/container" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/psr/http-message" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/psr/log" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/code-unit-reverse-lookup" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/comparator" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/diff" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/environment" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/exporter" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/global-state" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/object-enumerator" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/object-reflector" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/recursion-context" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/resource-operations" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/sebastian/version" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/squizlabs/php_codesniffer" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/symfony/console" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/symfony/debug" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/symfony/polyfill-mbstring" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/theseer/tokenizer" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/webmozart/assert" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-code" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-component-installer" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-config-aggregator" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-diactoros" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-escaper" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-eventmanager" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-expressive" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-expressive-fastroute" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-expressive-helpers" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-expressive-router" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-expressive-template" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-expressive-tooling" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-servicemanager" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-stdlib" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zendframework/zend-stratigility" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zfcampus/zf-composer-autoloading" />
+          <root url="file://$MODULE_DIR$/../zend-expressive-skeleton/vendor/zfcampus/zf-development-mode" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://$MODULE_DIR$/../zend-expressive-skeleton/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
